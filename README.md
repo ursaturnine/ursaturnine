@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ursaturnine
+- 👋 Hi, I’m Tyrah! She/Her/Hers
 - 👀 I’m interested in cyber security and tech architecture!
-- 🌱 I’m currently learning HTML and CSS ^.^
+- 🌱 I’m currently learning HTML, CSS, Network Engineering, Tech Architecture, and Devops ^.^
 - 💞️ I’m looking to collaborate on beginner portfolios!
 - 📫 How to reach me: connect with my on Github or Linkedin!
 
