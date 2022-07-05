@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tyrah! She/Her/Hers
-- 👀 I’m interested in cyber security and tech architecture!
-- 🌱 I’m currently learning HTML, CSS, Network Engineering, Tech Architecture, and Devops ^.^
-- 💞️ I’m looking to collaborate on beginner portfolios!
+- 👀 I’m interested in cyber security, full stack web development and DevOps!
+- 🌱 I’m currently learning Full Stack Web Development with React and React Native ^.^
+- 💞️ I’m looking to collaborate on React Native projects.
 - 📫 How to reach me: connect with my on Github or Linkedin!
 
 <!---
