@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyrah! She/Her/Hers
 - 👀 I’m interested in cyber security, full stack web development and DevOps!
-- 🌱 I’m currently learning Full Stack Web Development with React and React Native ^.^
+- 🌱 I’m currently learning Full Stack Web Development with React and React Native, C++, Typescript & NextJS ^.^
 - 💞️ I’m looking to collaborate on React Native projects.
 - 📫 How to reach me: connect with my on Github or Linkedin!
 
