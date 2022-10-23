@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tyrah! She/Her/Hers
-- 👀 I’m interested in cyber security, full stack web development and DevOps!
-- 🌱 I’m currently learning Full Stack Web Development with React and React Native, C++, Typescript & NextJS ^.^
+- 👋 Hi, I’m Tyrah D. Gullette! She/Her/Hers
+- 👀 I’m interested in server-side and backend development, cyber security, full stack web development, cloud technologies and DevOps!
+- 🌱 I’m currently learning enterprise level developing via coding an enterprise style webapp, gccbook or "Girls Code Club Interactive Code Notebook"
 - 💞️ I’m looking to collaborate on React Native projects.
 - 📫 How to reach me: connect with my on Github or Linkedin!
 
