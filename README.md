@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyrah D. Gullette! She/Her/Hers
 - 👀 I’m interested in Full Stack, Frontend and Backend development
-- 🌱 I’m currently learning Python Advanced Data Structures and NextJS
+- 🌱 I’m currently learning Python Advanced Data Structures and Algorithms. 
 - 💞️ I’m looking to collaborate on React/React Native projects.
 - 📫 How to reach me: connect with my on Github or Linkedin
 
