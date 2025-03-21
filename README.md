@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyrah D. Gullette! She/Her/Hers
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Java 20
+- 👀 I’m interested in Backend development and A.I. and Machine Learning
+- 🌱 I’m currently learning Java 20 and Pandas, Scikit, Matplotlib and related for ML
 - 📫 How to reach me: connect with my on Github or Linkedin
 
 <!---
